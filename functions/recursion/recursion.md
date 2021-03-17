@@ -4,6 +4,8 @@ Eine rekursive Funktion ist eine Funktion, die sich selbst aufruft.
 
 Es ist eine andere Methode, eine Schleife zu verwenden und meistens wenn sich die Parameter bei jedem Aufruf ändern sollen.
 
+Mithilfe von Rekursion hat man früher Schleifen geschrieben, also Rekursion ist eine Urschleife.
+
 Rekursion ermöglicht kurze und elegante Formulierung der Problemlösungen.
 
 
